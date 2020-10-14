@@ -1,1 +1,4 @@
 # myapp
+
+## Author
+Zach Watson
